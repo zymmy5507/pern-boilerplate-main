@@ -9,9 +9,8 @@ The key technologies used are as follows:
 * PostgreSQL
 * Express
 * Node
-* SCSS/SASS along with node-sass
 
-I am still working on the documentation and comments to make the codebase more useful for everyone. In case of any queries/feedbacks feel free to drop an email to sambuddhaadhikari@gmail.com. 
+
 
 # Usage & Getting Started with the Project
 ## Prerequisites
